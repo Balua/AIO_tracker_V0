@@ -1,7 +1,4 @@
-balua_tracker
-=============
-
-### Tracker - Beware, we are still testing this board...
+### BALUA Tracker - Beware, we are still testing this board...
 
 #### Corrections and alterations to this board can be found in the AIO_tracker_V1.0 repository.
 
