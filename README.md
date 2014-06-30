@@ -5,6 +5,9 @@
 
 #### Features:
 
+#####Microprocessor
+- ATMEGA 328p smd package
+
 #####Power
 - Step up Boost Converters from 2 AA Batteries to 3.3V and 5V
 
