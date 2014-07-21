@@ -39,3 +39,8 @@
 - UBlox GPS Power ON Controllable
 - On board LED
 - 5V/3.3V smd jumpers available for Atmega 328p, i2c and SPI Programming pins.
+
+#### Erros detected and Corrections that need to be done
+
+- Replace tx pin of HX1 from PD4 to PD3 in atmega 328 and 5V enable from PD3 to PD4.
+- SDN pin of the RFM22b is low activated, therefore needs to be connected to GND instead of 3.3V.
